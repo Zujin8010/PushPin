@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushPin", "PushPin\PushPin.csproj", "{3ABCCF11-9A82-4D97-AB17-5A01A4E2CF4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ABCCF11-9A82-4D97-AB17-5A01A4E2CF4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABCCF11-9A82-4D97-AB17-5A01A4E2CF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABCCF11-9A82-4D97-AB17-5A01A4E2CF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABCCF11-9A82-4D97-AB17-5A01A4E2CF4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65439D05-DE5D-4050-BD76-DF7B793C3D51}
+	EndGlobalSection
+EndGlobal
