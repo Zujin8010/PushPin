@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PushPin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ad24928c166f94d5c64158e3cde1bbc56cac5c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+def9e89104dd4e680f1b7739269ab6ba47cf085b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PushPin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PushPin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,3 +14,6 @@
 [Rr]eleases/
 x64/
 x86/
+PushPin/PushPin/obj/Debug/net8.0/PushPin.AssemblyInfo.cs
+PushPin/PushPin/obj/Debug/net8.0/PushPin.AssemblyInfoInputs.cache
+PushPin/.vs/PushPin/v17/.suo
