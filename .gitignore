@@ -1,0 +1,16 @@
+# Visual Studio 暫存檔案和使用者設定
+*.suo
+*.user
+*.userosscache
+*.cache
+.vs/
+
+# 編譯輸出和中間檔案
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
