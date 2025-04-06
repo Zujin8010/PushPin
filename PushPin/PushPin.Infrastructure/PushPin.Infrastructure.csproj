@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PushPin.Application\PushPin.Application.csproj" />
+    <ProjectReference Include="..\PushPin.Domain\PushPin.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

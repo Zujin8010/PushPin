@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushPin", "PushPin\PushPin.csproj", "{3ABCCF11-9A82-4D97-AB17-5A01A4E2CF4F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushPin.Entry", "PushPin\PushPin.Entry.csproj", "{3ABCCF11-9A82-4D97-AB17-5A01A4E2CF4F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushPin.Domain", "PushPin.Domain\PushPin.Domain.csproj", "{4EA6F0F2-07FE-4B23-831F-B4D1E6DE12F1}"
 EndProject
